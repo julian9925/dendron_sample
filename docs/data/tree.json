@@ -1,0 +1,28 @@
+{
+  "roots": [
+    {
+      "key": "8oosityox4me21lctdmropx",
+      "title": "takeNote",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Dendron",
+      "children": []
+    },
+    {
+      "key": "c1bs7wsjfbhb0zipaywqv1",
+      "title": "Tutorial",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Dendron",
+      "children": []
+    }
+  ],
+  "child2parent": {
+    "8oosityox4me21lctdmropx": null,
+    "c1bs7wsjfbhb0zipaywqv1": null
+  },
+  "notesLabelById": {
+    "8oosityox4me21lctdmropx": "takeNote",
+    "c1bs7wsjfbhb0zipaywqv1": "Tutorial"
+  }
+}
